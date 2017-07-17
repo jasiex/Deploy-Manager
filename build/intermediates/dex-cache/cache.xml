@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\nasto\.android\build-cache\137207e3cbb7cb27a9e5604bde4c682aecee2dc8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\classes_765beec054f1526c0bf352cec0da7beaaed228c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nasto\.android\build-cache\3f917209d9b9362e383b4163c0faabb6af6f61a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\classes_74be44133ba39994f066abe6561b8c7524fa456a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nasto\.android\build-cache\e9080c0471de8a73bb1623e9e0115c8a416d5711\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\classes_063fd8681599cea9fe3f04d08125a8ffb455c2f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nasto\.android\build-cache\29d5ef0636b8552de433cf4e24271983ebf47643\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\classes_660fcad57aef04ce9b617efb40eed8eea9a84f9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nasto\.android\build-cache\d657a75d073e84b81d4583d2ce1068d72bc8b9fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\classes_38c5d7477ccbe5ddaf61244925afc373d79daf57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DANE\WSIiZ\4_semestr\zarzadzanie_danymi\programy\SDK\SDK_wsiiz\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_b28a721efe23a258e93ef0db336f15b98f882f02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nasto\.android\build-cache\571651a277cdd4d2be8a492493bf578412995e0d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\classes_31868fe72a65ff16e346e25ea842bbfb68023dd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nasto\.android\build-cache\2d4fd92a274d36f6556f2baaf5c07408cba7d363\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\classes_c20099df14cffa08b9b12726fc464c962316b0a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nasto\.android\build-cache\258af7a9c2e8254404432566115a83d7cbfb9f72\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\classes_2ceda810f66679a07e5b7f1482913eae4da01f3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nasto\.android\build-cache\531a0517269c6e2c6b5d6908fd588fee83cb7835\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\classes_b7fe200a50f74d3ab3cb9341cc8c5fe222c53bea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nasto\.android\build-cache\ea89285db466d333f038f34fd4fff036f80e11fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\classes_b2232991220039980d1b707b7987f18badeb372a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nasto\.android\build-cache\5be657250948edfa2f2b5420a8796dfb994de108\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\classes_ee001f1161501ecabc473c8000ac747b2df131e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nasto\.android\build-cache\38541df6685d62ab0c02c83c81c94e2eeb93e042\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\classes_777cff45569151e7fd9b5593152ed00cdd95cff3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nasto\.android\build-cache\4e810b5866ec4285c5f4a4c8225fd813e2fc55cd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\classes_16fe86f185c1b7d2c800cd6e355bb1f937dc82c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nasto\.android\build-cache\f529f099e9d494d472c26a7f1c293f9ea44717aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\classes_2865ab387e37f2c0c7bd9faaad10df3ea93069be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nasto\.android\build-cache\24fba351599780263a60a56cc1e339504127e858\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\classes_964f867e309c79bffddcc805d13391a367ab01e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nasto\.android\build-cache\041b5ee3da1629aa9a62615a36b028090de79ceb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\classes_d5703065d8847c3d18e266716e08168d6f192a8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DANE\WSIiZ\4_semestr\zarzadzanie_danymi\programy\SDK\SDK_wsiiz\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_2eb7916a85d3fefdeeafe7f36ee396282b539bef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nasto\.android\build-cache\c50fe30de22d9797ea4daf5782bf2e541d58a680\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\classes_f8d1c3c763ac2b43c8102f585b0ceec34c6fc649.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nasto\.android\build-cache\a41358855e8d0bc9227f617280aae8bd5413fcd6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\classes_368bcb309a5015dde98d5fb8f6a806ecd6f28197.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nasto\.android\build-cache\ea6f6500944a05071618d45ae99229b642a1299d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\classes_ebd3e0e0488a48e841dd49e81bf999df196298a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nasto\.android\build-cache\7ee2915431fefefbb2201fa6a1937e6401652046\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\classes_b64931fb78428b8d9e7d880196d1bfe2769bfd98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nasto\.android\build-cache\98763791976df8e251657f2f82add4064ef2b03d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\classes_55de3f31f44428c05b9850c213e3a8e976a96b38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nasto\.android\build-cache\1cd141fcda80aaa9394cba6c5a2365145a28b0a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\classes_41fa7a58a7c4879cfc8cb2c9902aa0b1efc539eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nasto\.android\build-cache\32536281315c50165e88e6967ffd9b4191a8ed5d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\classes_a04d33f2b5b87707e60a079d80286a6ff5dcef12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nasto\.android\build-cache\1939c3ef0402fda0224751b5d4d7174f3ae70e1c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\classes_cff51d634e238e22535d146e46677920b9876376.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nasto\.android\build-cache\08bfde91484cd9309c2217ac41a46d73f73d2ad3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\classes_2acbacb2ef03dcbfac75db69f33cdbf7598ad978.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nasto\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.5.1\bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc\butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.5.1_76784c1149dea7b87b37881bed95f73c05f960ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nasto\.android\build-cache\1f8857d0f54ff83da7be1c44b5642ac674601a1b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\classes_60b53079132ea460f273d98bdcef50d093e212d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nasto\.android\build-cache\2fda0a09df33f10aa37b3213ca130ebedb511dfc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\classes_150f77b21d26fe01094d81cb967de027b37b4bf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nasto\.android\build-cache\6414389fda350ba7c7bf5e22c8cfab5e2ea22cdc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\nasto\Desktop\DeployManager\app\build\intermediates\pre-dexed\debug\classes_73dad04c42165d7830e75da2f65463afecff0c4b.jar" />
+    </item>
+
+</items>
